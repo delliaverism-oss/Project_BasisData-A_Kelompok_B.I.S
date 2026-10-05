@@ -113,14 +113,22 @@ Entitas utama: **Nasabah, Rekening, Transaksi, Pembiayaan, Zakat**
 | Akad tidak sesuai syariah | Review rutin oleh Dewan Pengawas Syariah |
 | Gangguan layanan pihak ketiga | Jalur cadangan dan pesan error yang jelas |
 
-## Jadwal Pengembangan (Usulan)
+## Jadwal Pengembangan
 
 | Fase | Kegiatan | Durasi |
 |---|---|---|
-| 1 | Analisis kebutuhan dan PRD | 2 minggu |
-| 2 | Desain UI/UX dan ERD | 3 minggu |
-| 3 | Pengembangan | 8 minggu |
-| 4 | Pengujian (UAT) | 3 minggu |
-| 5 | Peluncuran dan pemeliharaan | 2 minggu |
+| 1 | Analisis PRD dan ERD | 1 minggu |
 
-**Total estimasi: 18 minggu.**
+
+## Kelompok 
+| No | Nama | NPM |
+|---|---|---|
+| 1 | Muchamad Rava Alvriansyah | 4525210040 |
+| 2 | Muhammad Rian Ramadhan | 4525210047 |
+| 3 | Muhammad Ryza Mahameru | 4525210048 |
+| 4 | ⁠Muhammad Faisal Athallah | 4525210120 |
+| 5 | Delia Veris Maureta | 4525210119 |
+| 6 | Azzahra Navisha | 4525210118 |
+
+## Link ERD:
+https://drive.google.com/file/d/1_jWPjOJSGutoS29IDWKx_6t16L9iJijR/view?usp=sharing
