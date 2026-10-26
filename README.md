@@ -126,9 +126,10 @@ Entitas utama: **Nasabah, Rekening, Transaksi, Pembiayaan, Zakat**
 | 1 | Muchamad Rava Alvriansyah | 4525210040 |
 | 2 | Muhammad Rian Ramadhan | 4525210047 |
 | 3 | Muhammad Ryza Mahameru | 4525210048 |
-| 4 | ⁠Muhammad Faisal Athallah | 4525210120 |
+| 4 | Azzahra Navisha | 4525210118 |
 | 5 | Delia Veris Maureta | 4525210119 |
-| 6 | Azzahra Navisha | 4525210118 |
+| 6 | ⁠Muhammad Faisal Athallah | 4525210120 |
+| 7 | ⁠Naufalino Ahmad Saputra  | 4525210139 |
 
 ## Link ERD:
 https://drive.google.com/file/d/1_jWPjOJSGutoS29IDWKx_6t16L9iJijR/view?usp=sharing
